@@ -1,44 +1,55 @@
-# 🚀 Worklog.io
+# 🚀 Worklog.io — Dev Daily Logging Made Simple
+
+
 
 A clean, powerful daily work logging app for developers.  
-Clock in, take notes, view graphs, and auto-send polished email recaps — all in one place.
+Clock in, take notes, view weekly graphs, and send polished email recaps — all in one place.
 
-![Worklog.io Screenshot](./preview.png) <!-- Replace with actual image path -->
+👉 **Try it live:** [https://ahmadn1103.databutton.app/worklog-io](https://ahmadn1103.databutton.app/worklog-io)
 
 ---
 
 ## ✨ Features
 
 - ⏱️ **Clock In / Clock Out**  
-  Track your work sessions throughout the day. Clock in and out as many times as you need.
+  Track your work sessions with a single tap. Clock in and out as many times as needed.
 
-- 📝 **Inline Note Taking**  
-  Write work notes while you're clocked in. Notes are saved automatically when you clock out.
+- 📝 **Inline Notes While Working**  
+  Write your dev notes during each session. Everything gets saved on clock out.
 
-- 📊 **Weekly Time Graph**  
-  Visualize your hours with a clean, auto-updated bar graph.
+- 📊 **Weekly Hours Graph**  
+  View your logged hours for each day in a clean, auto-updated bar graph.
 
-- 📬 **Daily Email Recaps**  
-  Instantly generate a summary email of your workday. Preview, edit, and send directly to Gmail.
+- 📬 **Email Preview + Send to Gmail**  
+  Instantly generate a recap email of your day. Preview, edit, and send directly from the app to Gmail.
 
 - 🔐 **2-Step Authentication**  
-  Secure your account with optional multi-factor login.
+  Stay secure with optional multi-factor login.
 
 ---
 
-## 💻 Tech Stack
+## 📸 Screenshots
 
-- **Frontend:** React + TailwindCSS + shadcn/ui  
-- **Backend:** FastAPI (Python)  
-- **Database:** Firestore  
-- **Auth:** Google OAuth + 2FA  
-- **Email Integration:** Gmail Compose API  
+> _(Add screenshots here once uploaded — e.g., `/screens/dashboard.png`)_
 
 ---
 
-## 📦 Getting Started
+## 🧠 Why I Built This
 
-### 1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/worklog.io.git
-cd worklog.io
+I needed a fast, no-fuss way to track my daily work, jot notes as I go, and send polished recaps at the end of the day — without switching between tools. Worklog.io was built for devs who want to stay productive and accountable.
+
+---
+
+## 🙌 Feedback & Support
+
+Have ideas or want to contribute?  
+Drop feedback through the app or connect with me directly.
+
+---
+
+## 🛡️ License
+
+MIT License – free for personal and commercial use.
+
+---
+
