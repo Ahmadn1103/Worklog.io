@@ -28,12 +28,6 @@ Clock in, take notes, view weekly graphs, and send polished email recaps — all
 
 ---
 
-## 📸 Screenshots
-
-> _(Add screenshots here once uploaded — e.g., `/screens/dashboard.png`)_
-
----
-
 ## 🧠 Why I Built This
 
 I needed a fast, no-fuss way to track my daily work, jot notes as I go, and send polished recaps at the end of the day — without switching between tools. Worklog.io was built for devs who want to stay productive and accountable.
