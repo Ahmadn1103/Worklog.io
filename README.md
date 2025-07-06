@@ -1,6 +1,6 @@
 # 🚀 Worklog.io — Dev Daily Logging Made Simple
 
-
+<img width="2437" height="1028" alt="Image" src="https://github.com/user-attachments/assets/c463c8b9-997d-42af-a9f6-32f62d5ad91e" />
 
 A clean, powerful daily work logging app for developers.  
 Clock in, take notes, view weekly graphs, and send polished email recaps — all in one place.
